@@ -1,5 +1,5 @@
 # miniproject4-SiraDrame
 
 
-# How to start the server
+# How  should we start the server
 # python manage.py runserver
