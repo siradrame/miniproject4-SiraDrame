@@ -1,3 +1,7 @@
+# INF601 - Advanced Programming in Python
+# Sira  Drame
+# Mini Project 4
+
 from django.shortcuts import render, redirect
 from django.contrib.auth.views import LoginView
 from .forms import ContactForm  # Custom form for contact page

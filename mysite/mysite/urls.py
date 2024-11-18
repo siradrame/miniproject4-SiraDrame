@@ -1,3 +1,7 @@
+# INF601 - Advanced Programming in Python
+# Sira  Drame
+# Mini Project 4
+
 from django.contrib import admin
 from django.urls import path, include
 """
