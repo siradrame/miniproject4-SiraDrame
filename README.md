@@ -61,4 +61,4 @@ ex. Sira Drame
 
 Inspiration, code snippets, etc.
 * [Django](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
-* [ChatGPT](https://chatgpt.com/share/67033ace-5f2c-8000-8713-53268e36839d)
+* [ChatGPT](https://chatgpt.com/share/673aa9b5-6a6c-8000-aed3-4876d66623c3)
