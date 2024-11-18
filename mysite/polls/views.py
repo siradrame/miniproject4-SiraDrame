@@ -1,5 +1,4 @@
 from django.shortcuts import render, redirect
-from django.http import HttpResponse
 from django.contrib.auth.views import LoginView
 from .forms import ContactForm  # Custom form for contact page
 
