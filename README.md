@@ -18,10 +18,6 @@ pip install  -r requirements.txt
 #python manage.py runserver
 
 
-### Executing program
-
-```
-python manage.py runserver
 ```
 
 ### Create the database migrations
@@ -36,6 +32,11 @@ python manage.py makemigrations
 python manage.py migrate
 
 ```
+
+### Executing program
+
+```
+python manage.py runserver
 
 ## Create a superuser
 
