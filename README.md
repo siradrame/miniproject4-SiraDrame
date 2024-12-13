@@ -13,11 +13,6 @@ This project is a basic web application built using Django. It includes an admin
 pip install  -r requirements.txt
 ```
 
-
-# How  should we run the server
-#python manage.py runserver
-
-
 ```
 
 ### Create the database migrations
